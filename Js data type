@@ -1,0 +1,25 @@
+let x = "hel\"lo";
+console.log(x);
+
+let y = 'hello';
+let a = -55.60;
+console.log(a);
+
+
+let s = 5>6
+console.log(s);
+
+let r = ["apple","mango"];
+console.log(r);
+
+let p = {name:"john", age: 15};
+console.log(p);
+
+let b;
+console.log(b);
+
+let n = "";
+console.log(n);
+
+const k = typeof 100;
+console.log(k);
